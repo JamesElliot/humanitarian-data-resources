@@ -1,16 +1,6 @@
 # humanitarian-data-resources
  A list of organisations and resources related to the application of data science for humanitarian response, with a bias towards Water, Sanitation and Hygiene (WASH) and Public Health.
 
-# Table of contents
-[Data Sources]()
-[Application case studies]()
-[Best practice]()
-[Organisations]()
-[Communities]()
-[Learning]()
-[Podcasts & Newsletters]()
-[Newsletters]()
-
 # Data sources
 * [Global Internal Displacement Database](https://www.internal-displacement.org/database)
 * [Humanitarian Data Exchange](https://data.humdata.org)
@@ -20,6 +10,8 @@
 * [UNHCR WASH Data portal](https://wash.unhcr.org/wash-dashboard-for-refugee-settings/)
 * [World Resources Institute Data Lab](https://www.wri.org/data/data-lab) <-- Focus on Natural resources, sustainability
 * [Knoema World Data Atlas](https://knoema.com/atlas/topics/Water) <-- Global and national level economic, social and demographic data
+* [Meta Data for Good](https://dataforgood.facebook.com/dfg/tools)
+
 ## Water
 * [WaterStat](https://waterfootprint.org/en/resources/waterstat/) <-- WaterStat is the world’s most comprehensive water footprint database
 * [World Resources Institue Aquaduct Database](https://www.wri.org/aqueduct/data) <-- Data and maps on water resources, flooding and water stress
