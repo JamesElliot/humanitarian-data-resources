@@ -20,7 +20,17 @@
 * [UNHCR WASH Data portal](https://wash.unhcr.org/wash-dashboard-for-refugee-settings/)
 * [World Resources Institute Data Lab](https://www.wri.org/data/data-lab) <-- Focus on Natural resources, sustainability
 * [Knoema World Data Atlas](https://knoema.com/atlas/topics/Water) <-- Global and national level economic, social and demographic data
-## Water
+* [World Bank Open Data](https://data.worldbank.org)
+* [Nasa - Servir Mission](https://gis1.servirglobal.net/geonetwork/srv/eng/catalog.search#/home) <-- Global data from remote sensing
+## Population
+* [WorldPop](https://www.worldpop.org/datacatalog/) <-- Population estimates, migration and development indicators
+## Water and Sanitation
+* [India Water Tool](https://www.indiawatertool.in/index.html)
+
+* [FAO - AQUASTAT](https://www.fao.org/aquastat/en/) <-- FAO's global information system on water and agriculture
+* [Rural Water and Sanitation Information System](http://globalsiasar.org/en)
+* [Shit Flow Diagram Data](https://sfd.susana.org/about/sfd-data) <-- Data for over 250 shit flow diagrams carreid out in uraban areas
+* [Water Point Data Exchange](https://www.waterpointdata.org/access-data/) 
 * [WaterStat](https://waterfootprint.org/en/resources/waterstat/) <-- WaterStat is the world’s most comprehensive water footprint database
 * [World Resources Institue Aquaduct Database](https://www.wri.org/aqueduct/data) <-- Data and maps on water resources, flooding and water stress
 ## Geographic data
