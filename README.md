@@ -1,16 +1,6 @@
 # humanitarian-data-resources
  A list of organisations and resources related to the application of data science for humanitarian response, with a bias towards Water, Sanitation and Hygiene (WASH) and Public Health.
 
-# Table of contents
-[Data Sources]()
-[Application case studies]()
-[Best practice]()
-[Organisations]()
-[Communities]()
-[Learning]()
-[Podcasts & Newsletters]()
-[Newsletters]()
-
 # Data sources
 * [Global Internal Displacement Database](https://www.internal-displacement.org/database)
 * [Humanitarian Data Exchange](https://data.humdata.org)
@@ -31,6 +21,8 @@
 * [Rural Water and Sanitation Information System](http://globalsiasar.org/en)
 * [Shit Flow Diagram Data](https://sfd.susana.org/about/sfd-data) <-- Data for over 250 shit flow diagrams carreid out in uraban areas
 * [Water Point Data Exchange](https://www.waterpointdata.org/access-data/) 
+
+* [Meta Data for Good](https://dataforgood.facebook.com/dfg/tools)
 * [WaterStat](https://waterfootprint.org/en/resources/waterstat/) <-- WaterStat is the world’s most comprehensive water footprint database
 * [World Resources Institue Aquaduct Database](https://www.wri.org/aqueduct/data) <-- Data and maps on water resources, flooding and water stress
 ## Geographic data
