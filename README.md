@@ -4,6 +4,7 @@
 # Data sources
 * [Global Internal Displacement Database](https://www.internal-displacement.org/database)
 * [Humanitarian Data Exchange](https://data.humdata.org)
+* [Humanitarian Insight](https://hum-insight.info) <-- Data on the global humanitarian overview
 * [Joint Monitoring Programme Global Database](https://washdata.org/data) <-- UNICE & WHO monitoring of WASH in households, schools and health care facilities 
 * [UNHCR Operational Data Portal](https://data.unhcr.org)
 * [UNHCR Refugee Statistics](https://www.unhcr.org/refugee-statistics/)
@@ -11,7 +12,7 @@
 * [World Resources Institute Data Lab](https://www.wri.org/data/data-lab) <-- Focus on Natural resources, sustainability
 * [Knoema World Data Atlas](https://knoema.com/atlas/topics/Water) <-- Global and national level economic, social and demographic data
 * [World Bank Open Data](https://data.worldbank.org)
-* [Nasa - Servir Mission](https://gis1.servirglobal.net/geonetwork/srv/eng/catalog.search#/home) <-- Global data from remote sensing
+
 ## Population
 * [WorldPop](https://www.worldpop.org/datacatalog/) <-- Population estimates, migration and development indicators
 ## Water and Sanitation
@@ -26,12 +27,15 @@
 ## Geographic data
 * [OpenArialMap](https://openaerialmap.org)
 
-
+## Remote sensing
+* [Earth Observation Dashboard](https://eodashboard.org) <-- Overview of EO datasets from NASA, ESA and JIXA
+* [Nasa - Servir Mission](https://gis1.servirglobal.net/geonetwork/srv/eng/catalog.search#/home) <-- Global data from remote sensing
 # Tools, models, platforms
 * [Catalogue Of Predictive Models In The Humanitarian Sector](https://centre.humdata.org/catalogue-for-predictive-models-in-the-humanitarian-sector/)
 * [The Data Entry and Exploration Platform (DEEP)](https://thedeep.io)
 # Case studies
-
+* [Sustaining Access to Clean Water Story Map](https://storymaps.arcgis.com/stories/85c39ac4702f47b9ae31d744567921f3) <-- World Vision
+* [The Geography of Clean Water for All Story Map](https://storymaps.arcgis.com/stories/a73563c0d11b433fa35e0bd10a546087) <--World Vision 
 # Best practice
 ## Data visualization
 * [Data Visualization Guidelines](https://data.humdata.org/dataviz-guide/) <-- Humanitarian Data Exchange
