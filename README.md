@@ -3,6 +3,7 @@
 
 # Data sources
 * [Global Internal Displacement Database](https://www.internal-displacement.org/database)
+* [Global Multidimensional Poverty Index](https://ophi.org.uk/multidimensional-poverty-index/global-mpi-databank/) <-- Oxford Poverty and Human Development Initiative
 * [Humanitarian Data Exchange](https://data.humdata.org)
 * [Humanitarian Insight](https://hum-insight.info) <-- Data on the global humanitarian overview
 * [Joint Monitoring Programme Global Database](https://washdata.org/data) <-- UNICE & WHO monitoring of WASH in households, schools and health care facilities 
@@ -12,6 +13,9 @@
 * [World Resources Institute Data Lab](https://www.wri.org/data/data-lab) <-- Focus on Natural resources, sustainability
 * [Knoema World Data Atlas](https://knoema.com/atlas/topics/Water) <-- Global and national level economic, social and demographic data
 * [World Bank Open Data](https://data.worldbank.org)
+
+
+
 
 ## Population
 * [WorldPop](https://www.worldpop.org/datacatalog/) <-- Population estimates, migration and development indicators
