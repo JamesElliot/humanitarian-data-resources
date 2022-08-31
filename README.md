@@ -6,7 +6,7 @@
 * [Global Multidimensional Poverty Index](https://ophi.org.uk/multidimensional-poverty-index/global-mpi-databank/) <-- Oxford Poverty and Human Development Initiative
 * [Humanitarian Data Exchange](https://data.humdata.org)
 * [Humanitarian Insight](https://hum-insight.info) <-- Data on the global humanitarian overview
-* [Joint Monitoring Programme Global Database](https://washdata.org/data) <-- UNICE & WHO monitoring of WASH in households, schools and health care facilities 
+* [Joint Monitoring Programme Global Database](https://washdata.org/data) <-- UNICEF & WHO monitoring of WASH in households, schools and health care facilities 
 * [UNHCR Operational Data Portal](https://data.unhcr.org)
 * [UNHCR Refugee Statistics](https://www.unhcr.org/refugee-statistics/)
 * [UNHCR WASH Data portal](https://wash.unhcr.org/wash-dashboard-for-refugee-settings/)
