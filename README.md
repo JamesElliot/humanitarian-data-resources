@@ -9,7 +9,6 @@
 * [Joint Monitoring Programme Global Database](https://washdata.org/data) <-- UNICEF & WHO monitoring of WASH in households, schools and health care facilities 
 * [UNHCR Operational Data Portal](https://data.unhcr.org)
 * [UNHCR Refugee Statistics](https://www.unhcr.org/refugee-statistics/)
-* [UNHCR WASH Data portal](https://wash.unhcr.org/wash-dashboard-for-refugee-settings/)
 * [World Resources Institute Data Lab](https://www.wri.org/data/data-lab) <-- Focus on Natural resources, sustainability
 * [Knoema World Data Atlas](https://knoema.com/atlas/topics/Water) <-- Global and national level economic, social and demographic data
 * [World Bank Open Data](https://data.worldbank.org)
@@ -25,7 +24,7 @@
 * [Rural Water and Sanitation Information System](http://globalsiasar.org/en)
 * [Shit Flow Diagram Data](https://sfd.susana.org/about/sfd-data) <-- Data for over 250 shit flow diagrams carreid out in uraban areas
 * [Water Point Data Exchange](https://www.waterpointdata.org/access-data/) 
-* [Meta Data for Good](https://dataforgood.facebook.com/dfg/tools)
+* [UNHCR WASH Data portal](https://wash.unhcr.org/wash-dashboard-for-refugee-settings/)
 * [WaterStat](https://waterfootprint.org/en/resources/waterstat/) <-- WaterStat is the world’s most comprehensive water footprint database
 * [World Resources Institue Aquaduct Database](https://www.wri.org/aqueduct/data) <-- Data and maps on water resources, flooding and water stress
 ## Geographic data
@@ -48,18 +47,22 @@
 * [Data Friendly Space](https://datafriendlyspace.org) <-- US-based NGO focussed on applying data science to aid and development projects
 * [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/)
 * [Internal Displacement Monitoring Centre](https://www.internal-displacement.org)
+* [Meta Data for Good](https://dataforgood.facebook.com/dfg/tools)
 * [UNOCHA Centre for Humdata](https://centre.humdata.org/)
-
 ## Water
 * [Water Footprint Network](https://waterfootprint.org/en/)
-
 # Communities
-
 # Learning
 * [IFRC Data Play Book](https://preparecenter.org/toolkit/data-playbook-toolkit-v1/) <-- Learning resources for the data lifecycle
 # Podcasts/Newsletters
+* [Humanitarian AI Today](https://humanitarianai.org/podcasts.html)
+* [Aquaya REAL Water Podcast](https://aquaya.org/keeping-it-real-for-the-future-of-rural-water-services-delivery/)
 
 # Social media
-## Twitter users
+## Twitter
+* [Humanitarian Research Network Twitter Community](https://twitter.com/i/communities/1508944983432310792)
+* [Humanitarian Data Twitter List](https://twitter.com/i/lists/1554542561838174209?s=20)
+* [Humanitarian Techies Twitter List](https://twitter.com/i/lists/22764474?s=20)
 * [@humdata](https://twitter.com/humdata) <-- OCHA Centre for Humanitarian Data
 * [@Data4Africa](http://twitter.com/Data4Africa)
+
