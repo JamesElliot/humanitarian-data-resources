@@ -1,4 +1,4 @@
-# humanitarian-data-resources
+# Humanitarian Data Resources
  A list of organisations and resources related to the application of data science for humanitarian response, with a bias towards Water, Sanitation and Hygiene (WASH) and Public Health.
 
 # Data sources
