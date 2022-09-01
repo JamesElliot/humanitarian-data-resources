@@ -32,11 +32,13 @@
 * [World Resources Institue Aquaduct Database](https://www.wri.org/aqueduct/data) <-- Data and maps on water resources, flooding and water stress
 
 ## Earth Observation, Remote Sensing
+* [Copernicus](https://www.copernicus.eu/en/access-data) <-- EU open access satellite data hub
 * [Earth Observation Dashboard](https://eodashboard.org) <-- Overview of EO datasets from NASA, ESA and JIXA
 * [Global Land Cover Facility](http://www.landcover.org) 
 * [Nasa - Servir Mission](https://gis1.servirglobal.net/geonetwork/srv/eng/catalog.search#/home) <-- Global data from remote sensing
 * [NOAA National Geophysical Data Center](https://ngdc.noaa.gov/eog/dmsp/downloadV4composites.html)
 * [OpenArialMap](https://openaerialmap.org)
+* [UNOSAT](https://unosat.org/products/)
 
 # Tools, models, platforms
 * [Catalogue Of Predictive Models In The Humanitarian Sector](https://centre.humdata.org/catalogue-for-predictive-models-in-the-humanitarian-sector/)
