@@ -52,6 +52,7 @@
 # Organisations
 * [AI for Good](https://ai4good.org/) <-- AI for Good is driving forward technological solutions that measure and advance the UN’s Sustainable Development Goals.
 * [AidData](https://www.aiddata.org) <-- Research Lab at William & Mary Global Research Institute
+* [Dark Data Project](https://darkdataproject.org) <-- Works with NGOs and NPOs to analyze problematic datasets; pro bono stream available
 * [Data Friendly Space](https://datafriendlyspace.org) <-- US-based NGO focussed on applying data science to aid and development projects
 * [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/)
 * [Internal Displacement Monitoring Centre](https://www.internal-displacement.org)
