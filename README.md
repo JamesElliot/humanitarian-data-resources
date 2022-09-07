@@ -10,6 +10,7 @@
 * [Knoema World Data Atlas](https://knoema.com/atlas/topics/Water) <-- Global and national level economic, social and demographic data
 * [UNHCR Operational Data Portal](https://data.unhcr.org)
 * [UNHCR Refugee Statistics](https://www.unhcr.org/refugee-statistics/)
+* [The Weaponized Word](https://weaponizedword.org) <-- Hate speech data, free for eligible nonprofits and academic researchers
 * [World Resources Institute Data Lab](https://www.wri.org/data/data-lab) <-- Focus on Natural resources, sustainability
 * [World Bank Open Data](https://data.worldbank.org)
 ## Food security
