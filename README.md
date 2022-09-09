@@ -19,6 +19,7 @@
 * [World Food Programme GeoNode](https://geonode.wfp.org)
 ## Food security
 * [Integrated Food Security Population Tracking Tool](https://www.ipcinfo.org/ipc-country-analysis/population-tracking-tool/en/)
+* [Famine Early Warning Systems Network (FEWS NET) Data Centre](https://fews.net/data)
 ## Population
 * [WorldPop](https://www.worldpop.org/datacatalog/) <-- Population estimates, migration and development indicators
 * [Center for International Earth Science Information Network](http://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-count-adjusted-to-2015-unwpp-country-totals)
