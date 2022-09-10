@@ -1,17 +1,19 @@
 # Humanitarian Data Resources
  A list of organisations and resources related to the application of data science for humanitarian response, with a bias towards Water, Sanitation and Hygiene (WASH) and Public Health.
 # Data sources
+## Humanitarian
 * [AidData GeoQuery](http://geo.aiddata.org) <-- Open-access aggregated spatial data from multiple sources [documentation](https://www.aiddata.org/geoquery), [datasets](https://www.aiddata.org/geoquery/data-documentation)
 * [Global Internal Displacement Database](https://www.internal-displacement.org/database)
-* [Global Multidimensional Poverty Index](https://ophi.org.uk/multidimensional-poverty-index/global-mpi-databank/) <-- Oxford Poverty and Human Development Initiative
 * [Humanitarian Data Exchange](https://data.humdata.org)
 * [Humanitarian Insight](https://hum-insight.info) <-- Data on the global humanitarian overview
-* [Joint Monitoring Programme Global Database](https://washdata.org/data) <-- UNICEF & WHO monitoring of WASH in households, schools and health care facilities 
-* [Knoema World Data Atlas](https://knoema.com/atlas/topics/Water) <-- Global and national level economic, social and demographic data
 * [UNHCR Operational Data Portal](https://data.unhcr.org)
 * [UNHCR Refugee Statistics](https://www.unhcr.org/refugee-statistics/)
-* [The Weaponized Word](https://weaponizedword.org) <-- Hate speech data, free for eligible nonprofits and academic researchers
 * [World Resources Institute Data Lab](https://www.wri.org/data/data-lab) <-- Focus on Natural resources, sustainability
+
+
+## Economic, social, demographic indicators
+* [Global Multidimensional Poverty Index](https://ophi.org.uk/multidimensional-poverty-index/global-mpi-databank/) <-- Oxford Poverty and Human Development Initiative
+* [Knoema World Data Atlas](https://knoema.com/atlas/topics/Water) <-- Global and national level economic, social and demographic data
 * [World Bank Open Data](https://data.worldbank.org)
 ## Food security
 * [Integrated Food Security Population Tracking Tool](https://www.ipcinfo.org/ipc-country-analysis/population-tracking-tool/en/)
@@ -20,10 +22,12 @@
 * [Center for International Earth Science Information Network](http://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-count-adjusted-to-2015-unwpp-country-totals)
 ## Conflict
 * [ACLED Conflict Events](https://www.aiddata.org/geoquery/data-documentation)
+* [The Weaponized Word](https://weaponizedword.org) <-- Hate speech data, free for eligible nonprofits and academic researchers
 ## Academic / Research Projects
 * [Stanford Data Portal](https://sheftneal9.wixsite.com/fse-data/projects)
 ## Water and Sanitation
 * [India Water Tool](https://www.indiawatertool.in/index.html)
+* [Joint Monitoring Programme Global Database](https://washdata.org/data) <-- UNICEF & WHO monitoring of WASH in households, schools and health care facilities 
 * [FAO - AQUASTAT](https://www.fao.org/aquastat/en/) <-- FAO's global information system on water and agriculture
 * [Rural Water and Sanitation Information System](http://globalsiasar.org/en)
 * [Shit Flow Diagram Data](https://sfd.susana.org/about/sfd-data) <-- Data for over 250 shit flow diagrams carreid out in uraban areas
@@ -31,7 +35,7 @@
 * [UNHCR WASH Data portal](https://wash.unhcr.org/wash-dashboard-for-refugee-settings/)
 * [WaterStat](https://waterfootprint.org/en/resources/waterstat/) <-- WaterStat is the world’s most comprehensive water footprint database
 * [World Resources Institue Aquaduct Database](https://www.wri.org/aqueduct/data) <-- Data and maps on water resources, flooding and water stress
-
+drought modeling, e.g. DRIP
 ## Earth Observation, Remote Sensing
 * [Copernicus](https://www.copernicus.eu/en/access-data) <-- EU open access satellite data hub
 * [Earth Observation Dashboard](https://eodashboard.org) <-- Overview of EO datasets from NASA, ESA and JIXA
