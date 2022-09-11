@@ -7,7 +7,11 @@
 * [Humanitarian Data Exchange](https://data.humdata.org)
 * [Humanitarian Insight](https://hum-insight.info) <-- Data on the global humanitarian overview
 * [UNHCR Operational Data Portal](https://data.unhcr.org)
+* [UNDP Transparency Portal](https://open.undp.org) <-- Open programme data
 * [UNHCR Refugee Statistics](https://www.unhcr.org/refugee-statistics/)
+* [The Weaponized Word](https://weaponizedword.org) <-- Hate speech data, free for eligible nonprofits and academic researchers
+* [UNICEF Transparency Portal](https://open.unicef.org) <-- Open programme data
+* [UNOCHA Financial Tracking Service](https://fts.unocha.org)
 * [World Resources Institute Data Lab](https://www.wri.org/data/data-lab) <-- Focus on Natural resources, sustainability
 
 
@@ -15,8 +19,10 @@
 * [Global Multidimensional Poverty Index](https://ophi.org.uk/multidimensional-poverty-index/global-mpi-databank/) <-- Oxford Poverty and Human Development Initiative
 * [Knoema World Data Atlas](https://knoema.com/atlas/topics/Water) <-- Global and national level economic, social and demographic data
 * [World Bank Open Data](https://data.worldbank.org)
+* [World Food Programme GeoNode](https://geonode.wfp.org)
 ## Food security
 * [Integrated Food Security Population Tracking Tool](https://www.ipcinfo.org/ipc-country-analysis/population-tracking-tool/en/)
+* [Famine Early Warning Systems Network (FEWS NET) Data Centre](https://fews.net/data)
 ## Population
 * [WorldPop](https://www.worldpop.org/datacatalog/) <-- Population estimates, migration and development indicators
 * [Center for International Earth Science Information Network](http://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-count-adjusted-to-2015-unwpp-country-totals)
@@ -29,6 +35,8 @@
 * [India Water Tool](https://www.indiawatertool.in/index.html)
 * [Joint Monitoring Programme Global Database](https://washdata.org/data) <-- UNICEF & WHO monitoring of WASH in households, schools and health care facilities 
 * [FAO - AQUASTAT](https://www.fao.org/aquastat/en/) <-- FAO's global information system on water and agriculture
+* [India Water Tool](https://www.indiawatertool.in/index.html)
+* [Joint Monitoring Programme Global Database](https://washdata.org/data) <-- UNICE & WHO monitoring of WASH in households, schools and health care facilities 
 * [Rural Water and Sanitation Information System](http://globalsiasar.org/en)
 * [Shit Flow Diagram Data](https://sfd.susana.org/about/sfd-data) <-- Data for over 250 shit flow diagrams carreid out in uraban areas
 * [Water Point Data Exchange](https://www.waterpointdata.org/access-data/) 
@@ -44,8 +52,13 @@ drought modeling, e.g. DRIP
 * [NOAA National Geophysical Data Center](https://ngdc.noaa.gov/eog/dmsp/downloadV4composites.html)
 * [OpenArialMap](https://openaerialmap.org)
 * [UNOSAT](https://unosat.org/products/)
+## Health
+* [The Malaria Atlas Project](https://malariaatlas.org)
 
+## Climate
+* [Climate Watch](https://www.climatewatchdata.org/?source=cait)
 # Tools, models, platforms
+* [Automatic Disaster Analysis & Mapping (ADAM)](https://geonode.wfp.org/adam.html) <-- WFP
 * [Catalogue Of Predictive Models In The Humanitarian Sector](https://centre.humdata.org/catalogue-for-predictive-models-in-the-humanitarian-sector/)
 * [The Data Entry and Exploration Platform (DEEP)](https://thedeep.io)
 # Case studies
@@ -54,6 +67,8 @@ drought modeling, e.g. DRIP
 # Best practice
 ## Data visualization
 * [Data Visualization Guidelines](https://data.humdata.org/dataviz-guide/) <-- Humanitarian Data Exchange
+## Data interoperability
+* [Humanitarian Exchange Language (HXL)](https://hxlstandard.org)<-- [Learning resources](https://centre.humdata.org/learning-path/hxl/)
 # Organisations
 * [AI for Good](https://ai4good.org/) <-- AI for Good is driving forward technological solutions that measure and advance the UN’s Sustainable Development Goals.
 * [AidData](https://www.aiddata.org) <-- Research Lab at William & Mary Global Research Institute
@@ -61,7 +76,7 @@ drought modeling, e.g. DRIP
 * [Data Friendly Space](https://datafriendlyspace.org) <-- US-based NGO focussed on applying data science to aid and development projects
 * [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/)
 * [Internal Displacement Monitoring Centre](https://www.internal-displacement.org)
-* [Meta Data for Good](https://dataforgood.facebook.com/dfg/tools)
+* [Joint Data Centre on Forced Displacement](https://www.jointdatacenter.org/) <-- World Bank Group and UNHCR
 * [UNOCHA Centre for Humdata](https://centre.humdata.org/)
 ## Water
 * [Water Footprint Network](https://waterfootprint.org/en/)
