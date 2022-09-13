@@ -55,6 +55,7 @@ drought modeling, e.g. DRIP
 
 ## Climate
 * [Climate Watch](https://www.climatewatchdata.org/?source=cait)
+* [UC Santa Barbara Climate Hazards Centre](https://www.chc.ucsb.edu/data) <-- Global precipitation data 
 # Tools, models, platforms
 * [Automatic Disaster Analysis & Mapping (ADAM)](https://geonode.wfp.org/adam.html) <-- WFP
 * [Catalogue Of Predictive Models In The Humanitarian Sector](https://centre.humdata.org/catalogue-for-predictive-models-in-the-humanitarian-sector/)
