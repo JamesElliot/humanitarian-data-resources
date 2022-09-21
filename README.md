@@ -40,7 +40,7 @@
 * [Water Point Data Exchange](https://www.waterpointdata.org/access-data/) 
 * [UNHCR WASH Data portal](https://wash.unhcr.org/wash-dashboard-for-refugee-settings/)
 * [WaterStat](https://waterfootprint.org/en/resources/waterstat/) <-- WaterStat is the world’s most comprehensive water footprint database
-* [World Resources Institue Aquaduct Database](https://www.wri.org/aqueduct/data) <-- Data and maps on water resources, flooding and water stress drought modeling, e.g. DRIP
+* [World Resources Institute Aquaduct Database](https://www.wri.org/aqueduct/data) <-- Data and maps on water resources, flooding and water stress drought modeling, e.g. DRIP
 ## Earth Observation, Remote Sensing
 * [Copernicus](https://www.copernicus.eu/en/access-data) <-- EU open access satellite data hub
 * [Earth Observation Dashboard](https://eodashboard.org) <-- Overview of EO datasets from NASA, ESA and JIXA
