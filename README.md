@@ -9,7 +9,6 @@
 * [UNHCR Operational Data Portal](https://data.unhcr.org)
 * [UNDP Transparency Portal](https://open.undp.org) <-- Open programme data
 * [UNHCR Refugee Statistics](https://www.unhcr.org/refugee-statistics/)
-* [The Weaponized Word](https://weaponizedword.org) <-- Hate speech data, free for eligible nonprofits and academic researchers
 * [UNICEF Transparency Portal](https://open.unicef.org) <-- Open programme data
 * [UNOCHA Financial Tracking Service](https://fts.unocha.org)
 * [World Resources Institute Data Lab](https://www.wri.org/data/data-lab) <-- Focus on Natural resources, sustainability
@@ -52,6 +51,7 @@
 * [UNOSAT](https://unosat.org/products/)
 ## Health
 * [The Malaria Atlas Project](https://malariaatlas.org)
+* [WHO Global Health Observatory](https://www.who.int/data/gho)
 
 ## Climate
 * [Climate Watch](https://www.climatewatchdata.org/?source=cait)
