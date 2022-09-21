@@ -52,7 +52,7 @@
 ## Health
 * [The Malaria Atlas Project](https://malariaatlas.org)
 * [WHO Global Health Observatory](https://www.who.int/data/gho)
-
+* [WHO Mortality Database](https://platform.who.int/mortality)
 ## Climate
 * [Climate Watch](https://www.climatewatchdata.org/?source=cait)
 * [UC Santa Barbara Climate Hazards Centre](https://www.chc.ucsb.edu/data) <-- Global precipitation data 
