@@ -28,6 +28,7 @@
 * [Center for International Earth Science Information Network](http://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-count-adjusted-to-2015-unwpp-country-totals)
 ## Conflict
 * [ACLED Conflict Events](https://www.aiddata.org/geoquery/data-documentation)
+* [Aid Worker Security Database](https://aidworkersecurity.org) <-- Major incidents of violence against aid workers, 1997-present
 * [The Weaponized Word](https://weaponizedword.org) <-- Hate speech data, free for eligible nonprofits and academic researchers
 ## Academic / Research Projects
 * [Stanford Data Portal](https://sheftneal9.wixsite.com/fse-data/projects)
@@ -42,8 +43,7 @@
 * [Water Point Data Exchange](https://www.waterpointdata.org/access-data/) 
 * [UNHCR WASH Data portal](https://wash.unhcr.org/wash-dashboard-for-refugee-settings/)
 * [WaterStat](https://waterfootprint.org/en/resources/waterstat/) <-- WaterStat is the world’s most comprehensive water footprint database
-* [World Resources Institue Aquaduct Database](https://www.wri.org/aqueduct/data) <-- Data and maps on water resources, flooding and water stress
-drought modeling, e.g. DRIP
+* [World Resources Institue Aquaduct Database](https://www.wri.org/aqueduct/data) <-- Data and maps on water resources, flooding and water stress drought modeling, e.g. DRIP
 ## Earth Observation, Remote Sensing
 * [Copernicus](https://www.copernicus.eu/en/access-data) <-- EU open access satellite data hub
 * [Earth Observation Dashboard](https://eodashboard.org) <-- Overview of EO datasets from NASA, ESA and JIXA
