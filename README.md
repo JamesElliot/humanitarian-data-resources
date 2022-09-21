@@ -13,8 +13,6 @@
 * [UNICEF Transparency Portal](https://open.unicef.org) <-- Open programme data
 * [UNOCHA Financial Tracking Service](https://fts.unocha.org)
 * [World Resources Institute Data Lab](https://www.wri.org/data/data-lab) <-- Focus on Natural resources, sustainability
-
-
 ## Economic, social, demographic indicators
 * [Global Multidimensional Poverty Index](https://ophi.org.uk/multidimensional-poverty-index/global-mpi-databank/) <-- Oxford Poverty and Human Development Initiative
 * [Knoema World Data Atlas](https://knoema.com/atlas/topics/Water) <-- Global and national level economic, social and demographic data
@@ -57,6 +55,7 @@
 
 ## Climate
 * [Climate Watch](https://www.climatewatchdata.org/?source=cait)
+* [UC Santa Barbara Climate Hazards Centre](https://www.chc.ucsb.edu/data) <-- Global precipitation data 
 # Tools, models, platforms
 * [Automatic Disaster Analysis & Mapping (ADAM)](https://geonode.wfp.org/adam.html) <-- WFP
 * [Catalogue Of Predictive Models In The Humanitarian Sector](https://centre.humdata.org/catalogue-for-predictive-models-in-the-humanitarian-sector/)
