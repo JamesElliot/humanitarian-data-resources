@@ -3,6 +3,7 @@
 # Data sources
 ## Humanitarian
 * [AidData GeoQuery](http://geo.aiddata.org) <-- Open-access aggregated spatial data from multiple sources [documentation](https://www.aiddata.org/geoquery), [datasets](https://www.aiddata.org/geoquery/data-documentation)
+* [Global Database of Humanitarian Organisations](https://www.humanitarianoutcomes.org/projects/gdho) <-- Humanitarian Outcomes
 * [Global Internal Displacement Database](https://www.internal-displacement.org/database)
 * [Humanitarian Data Exchange](https://data.humdata.org)
 * [Humanitarian Insight](https://hum-insight.info) <-- Data on the global humanitarian overview
@@ -43,6 +44,7 @@
 * [World Resources Institute Aquaduct Database](https://www.wri.org/aqueduct/data) <-- Data and maps on water resources, flooding and water stress drought modeling, e.g. DRIP
 ## Earth Observation, Remote Sensing
 * [Copernicus](https://www.copernicus.eu/en/access-data) <-- EU open access satellite data hub
+* [Digital Earth Africa](https://docs.digitalearthafrica.org/en/latest/data_specs/Landsat_WOfS_specs.html)
 * [Earth Observation Dashboard](https://eodashboard.org) <-- Overview of EO datasets from NASA, ESA and JIXA
 * [Global Land Cover Facility](http://www.landcover.org) 
 * [Nasa - Servir Mission](https://gis1.servirglobal.net/geonetwork/srv/eng/catalog.search#/home) <-- Global data from remote sensing
