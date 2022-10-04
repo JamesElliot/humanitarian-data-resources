@@ -59,6 +59,13 @@
 * [Climate Watch](https://www.climatewatchdata.org/?source=cait)
 * [UC Santa Barbara Climate Hazards Centre](https://www.chc.ucsb.edu/data) <-- Global precipitation data 
 # Tools, models, platforms
+## Data collection platforms
+* [akvo Really Simple Reporting (RSR)](https://rsr.akvo.org) <-- data platform for PMEL
+* [KOBO Toolbox](https://www.kobotoolbox.org) <-- mobile data collection
+* [mWater](https://www.mwater.co) <-- WASH-specific data platform
+* [ODK](https://getodk.org) <-- mobile data collection
+* [ODK-X](https://odk-x.org) <-- build custom apps to gather, manage, and visualize data 
+## Analysis and machine learning
 * [Automatic Disaster Analysis & Mapping (ADAM)](https://geonode.wfp.org/adam.html) <-- WFP
 * [Catalogue Of Predictive Models In The Humanitarian Sector](https://centre.humdata.org/catalogue-for-predictive-models-in-the-humanitarian-sector/)
 * [The Data Entry and Exploration Platform (DEEP)](https://thedeep.io)
@@ -68,9 +75,10 @@
 # Best practice
 ## Data visualization
 * [Data Visualization Guidelines](https://data.humdata.org/dataviz-guide/) <-- Humanitarian Data Exchange
+* [Datawrapper Blog: How to create an organizational color palette](https://blog.datawrapper.de/colors-for-data-vis-style-guides/)
 ## Data interoperability
 * [Humanitarian Exchange Language (HXL)](https://hxlstandard.org)<-- [Learning resources](https://centre.humdata.org/learning-path/hxl/)
-# Organisations
+# Organisations working in humanitarian data
 * [AI for Good](https://ai4good.org/) <-- AI for Good is driving forward technological solutions that measure and advance the UN’s Sustainable Development Goals.
 * [AidData](https://www.aiddata.org) <-- Research Lab at William & Mary Global Research Institute
 * [AKVO](https://akvo.org)
@@ -85,9 +93,11 @@
 # Communities
 # Learning
 * [IFRC Data Play Book](https://preparecenter.org/toolkit/data-playbook-toolkit-v1/) <-- Learning resources for the data lifecycle
-# Podcasts/Newsletters
+# Podcasts, Newsletters, Blogs
 * [Humanitarian AI Today](https://humanitarianai.org/podcasts.html)
 * [Aquaya REAL Water Podcast](https://aquaya.org/keeping-it-real-for-the-future-of-rural-water-services-delivery/)
+
+# Humanitarian News Sources
 
 # Social media
 ## Twitter
