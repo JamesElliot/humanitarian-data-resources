@@ -2,9 +2,9 @@
 
  A list of organisations and resources related to the application of data science for humanitarian response, with a bias towards Water, Sanitation and Hygiene (WASH) and Public Health.
 
-# Data sources
+## Data sources
 
-## Humanitarian
+### Humanitarian
 
 * [AidData GeoQuery](http://geo.aiddata.org) <-- Open-access aggregated spatial data from multiple sources [documentation](https://www.aiddata.org/geoquery), [datasets](https://www.aiddata.org/geoquery/data-documentation)
 * [Global Database of Humanitarian Organisations](https://www.humanitarianoutcomes.org/projects/gdho) <-- Humanitarian Outcomes
@@ -18,34 +18,34 @@
 * [UNOCHA Financial Tracking Service](https://fts.unocha.org)
 * [World Resources Institute Data Lab](https://www.wri.org/data/data-lab) <-- Focus on Natural resources, sustainability
 
-## Economic, social, demographic indicators
+### Economic, social, demographic indicators
 
 * [Global Multidimensional Poverty Index](https://ophi.org.uk/multidimensional-poverty-index/global-mpi-databank/) <-- Oxford Poverty and Human Development Initiative
 * [Knoema World Data Atlas](https://knoema.com/atlas/topics/Water) <-- Global and national level economic, social and demographic data
 * [World Bank Open Data](https://data.worldbank.org)
 * [World Food Programme GeoNode](https://geonode.wfp.org)
 
-## Food security
+### Food security
 
 * [Integrated Food Security Population Tracking Tool](https://www.ipcinfo.org/ipc-country-analysis/population-tracking-tool/en/)
 * [Famine Early Warning Systems Network (FEWS NET) Data Centre](https://fews.net/data)
 
-## Population
+### Population
 
 * [WorldPop](https://www.worldpop.org/datacatalog/) <-- Population estimates, migration and development indicators
 * [Center for International Earth Science Information Network](http://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-count-adjusted-to-2015-unwpp-country-totals)
 
-## Conflict
+### Conflict
 
 * [ACLED Conflict Events](https://www.aiddata.org/geoquery/data-documentation)
 * [Aid Worker Security Database](https://aidworkersecurity.org) <-- Major incidents of violence against aid workers, 1997-present
 * [The Weaponized Word](https://weaponizedword.org) <-- Hate speech data, free for eligible nonprofits and academic researchers
 
-## Academic / Research Projects
+### Academic / Research Projects
 
 * [Stanford Data Portal](https://sheftneal9.wixsite.com/fse-data/projects)
 
-## Water and Sanitation
+### Water and Sanitation
 
 * [India Water Tool](https://www.indiawatertool.in/index.html)
 * [Joint Monitoring Programme Global Database](https://washdata.org/data) <-- UNICEF & WHO monitoring of WASH in households, schools and health care facilities
@@ -59,7 +59,7 @@
 * [WaterStat](https://waterfootprint.org/en/resources/waterstat/) <-- WaterStat is the world’s most comprehensive water footprint database
 * [World Resources Institute Aquaduct Database](https://www.wri.org/aqueduct/data) <-- Data and maps on water resources, flooding and water stress drought modeling, e.g. DRIP
 
-## Earth Observation, Remote Sensing
+### Earth Observation, Remote Sensing
 
 * [Copernicus](https://www.copernicus.eu/en/access-data) <-- EU open access satellite data hub
 * [Digital Earth Africa](https://docs.digitalearthafrica.org/en/latest/data_specs/Landsat_WOfS_specs.html)
@@ -70,20 +70,20 @@
 * [OpenArialMap](https://openaerialmap.org)
 * [UNOSAT](https://unosat.org/products/)
 
-## Health
+### Health
 
 * [The Malaria Atlas Project](https://malariaatlas.org)
 * [WHO Global Health Observatory](https://www.who.int/data/gho)
 * [WHO Mortality Database](https://platform.who.int/mortality)
 
-## Climate
+### Climate
 
 * [Climate Watch](https://www.climatewatchdata.org/?source=cait)
 * [UC Santa Barbara Climate Hazards Centre](https://www.chc.ucsb.edu/data) <-- Global precipitation data
 
-# Tools, models, platforms
+## Tools, models, platforms
 
-## Data collection platforms
+### Data collection platforms
 
 * [akvo Really Simple Reporting (RSR)](https://rsr.akvo.org) <-- data platform for PMEL
 * [KOBO Toolbox](https://www.kobotoolbox.org) <-- mobile data collection
@@ -91,29 +91,29 @@
 * [ODK](https://getodk.org) <-- mobile data collection
 * [ODK-X](https://odk-x.org) <-- build custom apps to gather, manage, and visualize data
 
-## Analysis and machine learning
+### Analysis and machine learning
 
 * [Automatic Disaster Analysis & Mapping (ADAM)](https://geonode.wfp.org/adam.html) <-- WFP
 * [Catalogue Of Predictive Models In The Humanitarian Sector](https://centre.humdata.org/catalogue-for-predictive-models-in-the-humanitarian-sector/)
 * [The Data Entry and Exploration Platform (DEEP)](https://thedeep.io)
 
-# Case studies
+## Case studies
 
 * [Sustaining Access to Clean Water Story Map](https://storymaps.arcgis.com/stories/85c39ac4702f47b9ae31d744567921f3) <-- World Vision
 * [The Geography of Clean Water for All Story Map](https://storymaps.arcgis.com/stories/a73563c0d11b433fa35e0bd10a546087) <--World Vision
 
-# Best practice
+## Best practice
 
-## Data visualization
+### Data visualization
 
 * [Data Visualization Guidelines](https://data.humdata.org/dataviz-guide/) <-- Humanitarian Data Exchange
 * [Datawrapper Blog: How to create an organizational color palette](https://blog.datawrapper.de/colors-for-data-vis-style-guides/)
 
-## Data interoperability
+### Data interoperability
 
 * [Humanitarian Exchange Language (HXL)](https://hxlstandard.org)<-- [Learning resources](https://centre.humdata.org/learning-path/hxl/)
 
-# Organisations working in humanitarian data
+## Organisations working in humanitarian data
 
 * [ACAPS](https://www.acaps.org) <-- Humanitarian situation analysis
 * [AI for Good](https://ai4good.org/) <-- AI for Good is driving forward technological solutions that measure and advance the UN’s Sustainable Development Goals.
@@ -126,13 +126,13 @@
 * [Joint Data Centre on Forced Displacement](https://www.jointdatacenter.org/) <-- World Bank Group and UNHCR
 * [UNOCHA Centre for Humdata](https://centre.humdata.org/)
 
-## Water
+### Water
 
 * [Water Footprint Network](https://waterfootprint.org/en/)
 
-# Communities
+## Communities
 
-# Learning
+## Learning
 
 * [IFRC Data Play Book](https://preparecenter.org/toolkit/data-playbook-toolkit-v1/) <-- Learning resources for the data lifecycle
 
