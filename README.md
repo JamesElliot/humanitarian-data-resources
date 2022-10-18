@@ -90,6 +90,7 @@
 * [mWater](https://www.mwater.co) <-- WASH-specific data platform
 * [ODK](https://getodk.org) <-- mobile data collection
 * [ODK-X](https://odk-x.org) <-- build custom apps to gather, manage, and visualize data
+* [Ushahidi](https://www.ushahidi.com/) <-- Crowdsourcing and mapping tools
 
 ### Analysis and machine learning
 
