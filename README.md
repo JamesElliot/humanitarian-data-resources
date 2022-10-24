@@ -72,6 +72,7 @@
 
 ### Health
 
+* [Covid-19 Vulnerability Index](https://github.com/britishredcrosssociety/covid-19-vulnerability) <-- British Red Cross
 * [The Malaria Atlas Project](https://malariaatlas.org)
 * [WHO Global Health Observatory](https://www.who.int/data/gho)
 * [WHO Mortality Database](https://platform.who.int/mortality)
@@ -114,6 +115,11 @@
 
 * [Humanitarian Exchange Language (HXL)](https://hxlstandard.org)<-- [Learning resources](https://centre.humdata.org/learning-path/hxl/)
 
+### Capacity Building
+
+* [Collective Intelligence Design Playbook](https://www.nesta.org.uk/toolkit/collective-intelligence-design-playbook/)
+* [Data Playbook](https://preparecenter.org/toolkit/data-playbook-beta-toolkit/) <-- IFRC
+
 ## Organisations working in humanitarian data
 
 * [ACAPS](https://www.acaps.org) <-- Humanitarian situation analysis
@@ -125,6 +131,8 @@
 * [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/)
 * [Internal Displacement Monitoring Centre](https://www.internal-displacement.org)
 * [Joint Data Centre on Forced Displacement](https://www.jointdatacenter.org/) <-- World Bank Group and UNHCR
+* [NESTA Collective Crisis Intelligence](https://www.nesta.org.uk/project/collective-crisis-intelligence/)
+* [NETHOPE](https://nethope.org)
 * [UNOCHA Centre for Humdata](https://centre.humdata.org/)
 
 ### Water
