@@ -101,8 +101,10 @@
 
 ## Case studies
 
+* [NETHOPE Webinars](https://nethope.org/webinars/) <--
 * [Sustaining Access to Clean Water Story Map](https://storymaps.arcgis.com/stories/85c39ac4702f47b9ae31d744567921f3) <-- World Vision
 * [The Geography of Clean Water for All Story Map](https://storymaps.arcgis.com/stories/a73563c0d11b433fa35e0bd10a546087) <--World Vision
+* [UN Global Pulses microsites repository](https://www.unglobalpulse.org/microsites/)
 
 ## Best practice
 
@@ -128,6 +130,7 @@
 * [AKVO](https://akvo.org)
 * [Dark Data Project](https://darkdataproject.org) <-- Works with NGOs and NPOs to analyze problematic datasets; pro bono stream available
 * [Data Friendly Space](https://datafriendlyspace.org) <-- US-based NGO focussed on applying data science to aid and development projects
+* [Focus Group on AI for Natural Disaster Management (FG-AI4NDM)](https://www.itu.int/en/ITU-T/focusgroups/ai4ndm/Pages/default.aspx)
 * [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/)
 * [Internal Displacement Monitoring Centre](https://www.internal-displacement.org)
 * [Joint Data Centre on Forced Displacement](https://www.jointdatacenter.org/) <-- World Bank Group and UNHCR
@@ -148,6 +151,7 @@
 ## Podcasts, Newsletters, Blogs
 
 * [Humanitarian AI Today](https://humanitarianai.org/podcasts.html)
+* [NETHOPE Webinars](https://nethope.org/webinars/)
 
 ### WASH
 
