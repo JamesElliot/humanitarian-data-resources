@@ -77,9 +77,10 @@
 * [WHO Global Health Observatory](https://www.who.int/data/gho)
 * [WHO Mortality Database](https://platform.who.int/mortality)
 
-### Climate
+### Climate and natural disaster risk
 
 * [Climate Watch](https://www.climatewatchdata.org/?source=cait)
+* [ThinkHazard!](https://thinkhazard.org/en/) <-- Global overview of hazards related to natural disasters and climate
 * [UC Santa Barbara Climate Hazards Centre](https://www.chc.ucsb.edu/data) <-- Global precipitation data
 
 ## Tools, models, platforms
