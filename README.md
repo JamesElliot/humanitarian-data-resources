@@ -50,8 +50,6 @@
 * [India Water Tool](https://www.indiawatertool.in/index.html)
 * [Joint Monitoring Programme Global Database](https://washdata.org/data) <-- UNICEF & WHO monitoring of WASH in households, schools and health care facilities
 * [FAO - AQUASTAT](https://www.fao.org/aquastat/en/) <-- FAO's global information system on water and agriculture
-* [India Water Tool](https://www.indiawatertool.in/index.html)
-* [Joint Monitoring Programme Global Database](https://washdata.org/data) <-- UNICE & WHO monitoring of WASH in households, schools and health care facilities
 * [Rural Water and Sanitation Information System](http://globalsiasar.org/en)
 * [Shit Flow Diagram Data](https://sfd.susana.org/about/sfd-data) <-- Data for over 250 shit flow diagrams carreid out in uraban areas
 * [Water Point Data Exchange](https://www.waterpointdata.org/access-data/)
